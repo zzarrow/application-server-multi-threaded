@@ -35,7 +35,6 @@ src/edu/upenn/cis/cis555/webserver/Dispatcher.java
 src/test/edu/upenn/cis/cis555/RunAllTests.java
 src/test/edu/upenn/cis/cis555/ServletTests.java
 
-
 Special instructions for building or running:
   You can use the given build script to build.  To run, please type the
   following command from within the root of the project:
