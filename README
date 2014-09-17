@@ -1,9 +1,10 @@
-Multi-threaded Java Application Server
-Developed by Zach Zarrow to fulfill an academic assignment in Spring 2011.
+##Multi-threaded Java Application Server##
+####Developed by Zach Zarrow to fulfill an academic assignment in Spring 2011.####
 
-This is a multi-threaded web server and application server written from the ground up in Java, without using Java's given HTTP libraries. This service serves Java Servlets (Say that ten times fast).  This makes it similar in nature to Apache Tomcat, but not nearly as developed nor full-featured.  It will also serve static content from the /resources directory.
+This is a multi-threaded web server and application server written from the ground up in Java, without using Java's given HTTP libraries. This service serves Java Servlets (Say that ten times fast), similar in nature to Apache Tomcat. It will also serve static content from the /resources directory.
 
-The below text is the README that was originally submitted with the project.
+The text below is the README that was originally submitted with the project.
+
 
 Description of features implemented:
   All required features of the application server are implemented.
